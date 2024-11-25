@@ -29,5 +29,5 @@ I am a student with a interest in algorithm and machine learning. I love solving
 
 ## GitHub Stats
 
-![Reberu6's GitHub stats](https://github-readme-stats.vercel.app/api?username=reberu6&show_icons=true&theme=radical)
+![Reberu6's GitHub stats](https://github-readme-stats.vercel.app/api?username=reberu6)
 
